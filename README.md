@@ -3,7 +3,7 @@ Bracket Purescript
 
 Bracket extension dedicated to Purescript language. 
 
-The current Purescript mode came from the one designed for Haskell.
+The current Purescript mode came from the one designed for Haskell.x
 
 Installation
 ============
@@ -12,8 +12,9 @@ Mode installation
 -----------------
 
 In Bracket `www/thirdparty/CodeMirror2/mode` install files:
-. mode/purescript/index.html
-. mode/purescript/purescript.js
+
+- mode/purescript/index.html
+- mode/purescript/purescript.js
 
 in `purescript` folder.
 
@@ -21,7 +22,8 @@ Mode activation
 ---------------
 
 In extension folder (Bracket: Help -> Show Extension Folder) install file:
-. extensions/user/purescript/main.js
+
+- extensions/user/purescript/main.js
 
 in `user/purescript` folder.
 
