@@ -1,7 +1,9 @@
 Bracket Purescript
 ==================
 
-Bracket extension dedicated to Purescript language
+Bracket extension dedicated to Purescript language. 
+
+The current Purescript mode came from the one designed for Haskell.
 
 Installation
 ============
